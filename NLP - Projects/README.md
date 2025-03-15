@@ -23,7 +23,6 @@ NLP-Projects/
 │   ├── data_news.csv  # News dataset 
 │   ├── News Article Classification.pdf  # Report
 │
-├── requirements.txt  # Python dependencies
 ├── README.md  # Project documentation
 ```
 
