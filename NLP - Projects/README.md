@@ -79,8 +79,9 @@ This project categorizes news articles into predefined categories (sports, polit
 1. **Clone the repository** (if using Git):
    ```bash
    git clone https://github.com/HimanshuJagga/NLP-Projects.git
-   jupyter notebook
-   Open the .ipynb files and execute the cells to train and test the models.
+   Run Jupyter Notebook: jupyter notebook
+   ```
+Open the .ipynb files and execute the cells to train and test the models.
 
 🎯 Future Improvements
 Implement deep learning models (LSTM, BERT).
