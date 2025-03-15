@@ -9,7 +9,9 @@ This repository contains two NLP projects:
 
 ## 📂 Project Structure
 
-```plaintext
+```
+
+
 NLP-Projects/
 ├── IMDb-Sentiment-Analysis/
 │   ├── IMDb Movie Review Sentiment Analysis.ipynb  # Jupyter Notebook
@@ -23,7 +25,9 @@ NLP-Projects/
 │
 ├── requirements.txt  # Python dependencies
 ├── README.md  # Project documentation
+```
 
+---
 
 ## 📌 Project 1: IMDb Movie Review Sentiment Analysis
 
