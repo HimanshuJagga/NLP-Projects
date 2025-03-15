@@ -10,19 +10,17 @@ This repository contains two NLP projects:
 ## 📂 Project Structure
 
 NLP-Projects/
-  ├── IMDb-Sentiment-Analysis/ │ 
-                                ├── IMDb Movie Review Sentiment Analysis.ipynb # Jupyter Notebook │
-                                ├── data_imdb.rar # IMDb dataset │ 
-                                ├── IMDb Movie Review Sentiment Analysis.pdf │ 
-
-  ├── News-Article-Classification/ │
-                                  ├── News Article Classification.ipynb # Jupyter Notebook │ 
-                                  ├── data_news.rar # News dataset │
-                                  ├── News Article Classification.pdf # Report │
-                                                  
-README.md # Project documentation
-
----
+├── IMDb-Sentiment-Analysis/
+│   ├── IMDb Movie Review Sentiment Analysis.ipynb  # Jupyter Notebook
+│   ├── data_imdb.csv  # IMDb dataset
+│   ├── IMDb Movie Review Sentiment Analysis.pdf  # Report 
+│
+├── News-Article-Classification/
+│   ├── News Article Classification.ipynb  # Jupyter Notebook
+│   ├── data_news.csv  # News dataset 
+│   ├── News Article Classification.pdf  # Report 
+│
+├── README.md  # Project documentation
 
 ## 📌 Project 1: IMDb Movie Review Sentiment Analysis
 
